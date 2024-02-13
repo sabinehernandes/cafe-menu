@@ -1,2 +1,4 @@
 # cafe-menu
-Menu page for a cafe using HTML and CSS
+Menu page for a cafe using basic concepts of HTML and CSS
+
+Project from freeCodeCamp
